@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👩🏻‍💻
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -13,6 +13,6 @@
 ![Auth0](https://img.shields.io/badge/Auth0-%2300b0f0.svg?style=for-the-badge&logo=auth0&logoColor=white)
 
 
-### 📫 Reach me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chakavaknojavan/)! 
+### 📫 Reach me at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chakavaknojavan/)! 👋
 
 
